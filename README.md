@@ -28,7 +28,7 @@
 - **홍익대학교, 컴퓨터공학과(복수 전공)** (2022.03 ~ 2025.02[졸업 예정])
 - **웹 풀스택 부트캠프 Vanilla Coding** (2023.07~ 2023.12)
 - **신촌 연합 IT창업동아리 CEOS 19기, FrontEnd 파트** (2024.03 ~ 2024.08 수료)
-- **신촌 연합 IT창업동아리 CEOS 19기, FrontEnd 운영진** (2024.09 ~ )
+- **신촌 연합 IT창업동아리 CEOS 20기, FrontEnd 운영진** (2024.09 ~ )
 
 ## Stats
   <div align="center">
@@ -91,6 +91,9 @@
 <div align="left">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 </div>
+
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swsj2369)](https://solved.ac/swsj2369/)
 
 ### My SNS
 <div align="left">
