@@ -30,6 +30,7 @@
 - **신촌 연합 IT창업동아리 CEOS 19기, FrontEnd 파트** (2024.03 ~ 2024.08 수료)
 - **신촌 연합 IT창업동아리 CEOS 20기, FrontEnd 운영진** (2024.09 ~ 2025.01)
 - **Law & Good Company Frontend 인턴** (2024.11 ~ 2025.05)
+- **넛지헬스케어 Frontend개발** (2025.06 ~ )
 
 ## Stats
   <div align="center">
